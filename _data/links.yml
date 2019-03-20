@@ -38,10 +38,18 @@
     - name: 蓝导航
       style: basic
       url: /go/Num-DH-01.html
+      
+    - name: 平凡导航
+      style: basic
+      url: /go/Num-DH-02.html
    
     - name: 迷妹福利导航
       style: basic
       url: /go/Num-DH-00.html
+      
+    - name: 爱撸导航
+      style: basic
+      url: /go/Num-DH-03.html
 
       
       
