@@ -30,6 +30,10 @@
                  
   - category: 福利导航
     links: 
+    
+    - name: 蓝导航
+      style: basic
+      url: /go/Num-DH-01.html
    
     - name: 迷妹福利导航
       style: basic
