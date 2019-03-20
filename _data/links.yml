@@ -26,6 +26,10 @@
   categories:
   - category: 在线视频
     links: 
+    
+    - name: 红楼论坛
+      style: red
+      url: /go/Num-SP-00.html
 
                  
   - category: 福利导航
