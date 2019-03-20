@@ -30,7 +30,10 @@
                  
   - category: 福利导航
     links: 
-
+   
+    - name: 迷妹福利导航
+      style: basic
+      url: /go/Num-DH-00.html
 
       
       
@@ -40,7 +43,11 @@
   categories:
       
   - category: 论坛博客
-    links:        
+    links: 
+
+    - name: 草原狼论坛
+      style: basic
+      url: http://149.248.15.57/index.html   
 
   
   - category: 福利小说
