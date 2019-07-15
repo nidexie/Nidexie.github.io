@@ -28,12 +28,16 @@
     links: 
     
     - name: 香蕉视频
-      style: yellow
+      style: basic
       url: /go/sp-01.html
       
     - name: 花社
-      style: pink
+      style: basic
       url: /go/sp-02.html
+      
+    - name: 兽欲多多
+      style: basic
+      url: /go/sp-03.html
 
                  
   - category: 福利导航
@@ -44,7 +48,7 @@
       url: /go/dh-01.html
       
     - name: 小X导航
-      style: pink
+      style: blue
       url: /go/dh-02.html
 
       
