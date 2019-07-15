@@ -27,14 +27,21 @@
   - category: 在线视频
     links: 
     
+    - name: 香蕉视频
+      style: yellow
+      url: /go/sp-01.html
 
                  
   - category: 福利导航
     links: 
     
-    - name: 迷妹福利导航
-      style: basic
+    - name: 迷妹导航
+      style: pink
       url: /go/dh-01.html
+      
+    - name: 小X导航
+      style: pink
+      url: /go/dh-02.html
 
       
       
