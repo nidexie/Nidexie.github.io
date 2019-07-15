@@ -53,8 +53,16 @@
       url: /go/dh-01.html
       
     - name: 小X导航
-      style: blue
+      style: basic
       url: /go/dh-02.html
+      
+    - name: B多多导航
+      style: basic
+      url: /go/dh-03.html
+      
+    - name: 艾薇导航
+      style: basic
+      url: /go/dh-04.html
 
       
       
