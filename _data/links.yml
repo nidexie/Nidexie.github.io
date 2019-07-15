@@ -48,13 +48,29 @@
   - category: 福利导航
     links: 
     
-    - name: 迷妹导航
-      style: pink
-      url: /go/dh-01.html
+    - name: AVCN
+      style: red
+      url: /go/dh-09.html
+    
+    - name: 冰点导航
+      style: basic
+      url: /go/dh-07.html
+      
+    - name: 夜雨导航
+      style: basic
+      url: /go/dh-08.html
       
     - name: 小X导航
       style: basic
       url: /go/dh-02.html
+
+    - name: 迷妹导航
+      style: pink
+      url: /go/dh-01.html
+      
+    - name: 银色导航
+      style: basic
+      url: /go/dh-06.html
       
     - name: B多多导航
       style: basic
@@ -63,6 +79,10 @@
     - name: 艾薇导航
       style: basic
       url: /go/dh-04.html
+      
+    - name: 好色导航
+      style: basic
+      url: /go/dh-05.html
 
       
       
