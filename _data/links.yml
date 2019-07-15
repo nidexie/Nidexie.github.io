@@ -30,6 +30,10 @@
     - name: 香蕉视频
       style: yellow
       url: /go/sp-01.html
+      
+    - name: 花社
+      style: pink
+      url: /go/sp-02.html
 
                  
   - category: 福利导航
