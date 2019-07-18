@@ -1,27 +1,13 @@
 - section: ONE
   categories:
-  - category: ///神器顶荐区///
+  - category: 福利区
     links:
- 
-
-- section: TWO
-  categories:
-  - category: ///推荐视频区①区///
-    links:
-
-
-                 
-  - category: ///推荐视频区②区///
-    links: 
     
-
+    - name: 站内福利/持续更新
+      style: basic
+      url: /go/0000.html
     
-- section: three
-  categories:
-  - category: 流量交换
-    links:
-                                        
-
+            
 - section: four
   categories:
   - category: 在线视频
