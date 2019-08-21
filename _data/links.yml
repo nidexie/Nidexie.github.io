@@ -3,7 +3,7 @@
   - category: 色系APP
     links:
     
-     name: 成人自拍抖音版
+    - name: 成人自拍抖音版
       style: basic
       url: /go/ad-00.html
       
@@ -18,10 +18,7 @@
     - name: H小说H漫画神器
       style: basic
       url: /go/ad-03.html
-    
-
-    
-            
+               
 - section: four
   categories:
   - category: 在线视频
