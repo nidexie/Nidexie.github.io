@@ -1,11 +1,25 @@
 - section: ONE
   categories:
-  - category: 福利区
+  - category: 色系APP
     links:
     
-    - name: 站内福利/持续更新
-      style: red
-      url: /go/0000.html
+     name: 成人自拍抖音版
+      style: basic
+      url: /go/ad-00.html
+      
+    - name: 最新国产自拍
+      style: basic
+      url: /go/ad-01.html
+            
+    - name: 2019艳照门
+      style: basic
+      url: /go/ad-02.html
+            
+    - name: H小说H漫画神器
+      style: basic
+      url: /go/ad-03.html
+    
+
     
             
 - section: four
